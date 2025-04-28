@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/9aea72be-2d8f-4231-8b46-21c0b80e8937)
 # Road Accident Dashboard
 
 ## Overview
